@@ -1,0 +1,5 @@
+- Hi, I’m @i-eye
+- I’m interested in Unity, RPCS3, Linux, Firefox forks, etc.
+- I’m currently learning Unity
+- I’m looking to collaborate on nothing currently
+- How to reach me -- I_Eye#8095 on Discord
