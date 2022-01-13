@@ -3,3 +3,4 @@
 - I’m currently learning Unity
 - I’m looking to collaborate on nothing currently
 - How to reach me -- I_Eye#8095 on Discord
+- I'm using github for my AP computer science work so this its gonna be filled with Java files
