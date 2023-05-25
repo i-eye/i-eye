@@ -1,5 +1,5 @@
 - Hi, I’m @i-eye
 - I’m interested in Unity, RPCS3, Linux, Firefox forks, etc.
 - Now I'm doing my best to make a Risk of Rain 2 mod
-- I’m looking to collaborate on nothing currently
-- How to reach me -- I_Eye#8095 on Discord
+- I’m looking to collaborate on nothing
+- I_Eye#8095 on Discord
